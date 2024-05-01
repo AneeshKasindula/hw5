@@ -1,0 +1,17 @@
+body {
+    background-color: palevioletred;
+    color: black;
+}
+
+a {
+    color: greenyellow;
+}
+
+header, footer {
+    background-color: #333;
+    padding: 20px;
+}
+
+main {
+    padding: 25px;
+}
